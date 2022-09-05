@@ -4,5 +4,5 @@
     echo " Test thêm 1 dòng vào git hub";
     
     echo "Test pull";
-    echo "Test pull";
+    echo "Test pull conflict";
 ?>
